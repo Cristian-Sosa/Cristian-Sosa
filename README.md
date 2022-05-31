@@ -20,7 +20,7 @@ I am passionate about web development, an IT technician, and a curious entrepren
   + JavaScript / ReactJs
 
 + Versioning:
-  + GIT/GitHub
+  + GIT / GitHub
 
 + Methodologies
   + Scrum
