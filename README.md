@@ -19,6 +19,12 @@ I am passionate about web development, an IT technician, and a curious entrepren
   + CSS3 / SASS
   + JavaScript / ReactJs
 
++ Back End:
+  + Python / Flask
+
++ Data Base:
+  + MySQL
+
 + Versioning:
   + GIT / GitHub
 
