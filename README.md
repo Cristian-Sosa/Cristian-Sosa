@@ -35,4 +35,4 @@ I am passionate about web development, an IT technician, and a curious entrepren
 
 I'm a person fascinated by teamwork🤝🏽 first of all, I will strive to gain experience in this endless world as a Full Stack Developer.
 
-After having ventured, I would like to become the leader of a development team. Ensuring an environment in which they can function without fear 🙌🏽
+After having ventured, I would like to become the leader of a development team. Ensuring an environment in which they can function without fear
