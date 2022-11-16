@@ -31,46 +31,49 @@
 
   <h2>Mis Conocimientos 👨🏽‍🎓</h2>
 
-<div id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-  <figure>  
-    <img src="./icons/figma-logo.svg" width="40px">
-  </figure>
-</didv>
+  <div id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
+    <figure>  
+      <img src="./icons/figma-logo.svg" width="40px">
+    </figure>
+  </div>
+    <figure><img heigth="16px" /></figure>
+  <div id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
+    <figure style="margin: 0 24px 0 0">
+      <img src="./icons/html-logo.svg" width="40px">
+    </figure>
+    <figure><img width="16px" /></figure>
+    <figure>
+      <img src="./icons/css-logo.svg" width="40px" style="margin-right: 8px">
+        <figure><img width="16px" /></figure>
+      <img src="./icons/sass-logo.svg" height="48px">
+    </figure>
+    <figure><img width="16px" /></figure>
+    <figure>
+      <img src="./icons/reactjs-logo.svg" width="48px" >
+      <figure><img width="16px" /></figure>
+      <img src="./icons/javascript-logo.svg" width="40px" style="margin-right: 8px">
+    </figure>
+  </div>
 
-<div id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-  <figure>
-    <img src="./icons/html-logo.svg" width="40px">
-  </figure>
+  <div id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
+    <figure>
+      <img src="./icons/python-logo.svg" width="40px" style="margin-right: 16px">
+        <figure><img width="16px" /></figure>
+      <img src="./icons/flask-logo.svg" height="48px">
+    </figure>
+    <figure><img width="16px" /></figure>
+    <figure>
+      <img src="./icons/nodejs-logo.svg" width="40px">
+    </figure>
+    <figure><img width="16px" /></figure>
+    <figure>
+      <img src="./icons/mysql-logo.svg" height="40px">
+    </figure>
+  </div>
 
-  <figure>
-    <img src="./icons/css-logo.svg" width="40px" style="margin-right: 8px">
-    <img src="./icons/sass-logo.svg" height="48px">
-  </figure>
-
-  <figure>
-    <img src="./icons/reactjs-logo.svg" width="48px" >
-    <img src="./icons/javascript-logo.svg" width="40px" style="margin-right: 8px">
-  </figure>
-</div>
-
-<div id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-  <figure>
-    <img src="./icons/python-logo.svg" width="40px" style="margin-right: 16px">
-    <img src="./icons/flask-logo.svg" height="48px">
-  </figure>
-
-  <figure>
-    <img src="./icons/nodejs-logo.svg" width="40px">
-  </figure>
-
-  <figure>
-    <img src="./icons/mysql-logo.svg" height="40px">
-  </figure>
-</div>
-
-<div id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-  <figure>  
-    <img src="./icons/git-logo.svg" width="40px">
-  </figure>
-</div>
+  <div id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
+    <figure>  
+      <img src="./icons/git-logo.svg" width="40px">
+    </figure>
+  </div>
 </body>
