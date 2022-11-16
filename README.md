@@ -1,3 +1,14 @@
+<html>
+<head>
+  <style>
+  section div img {
+    margin-right: 24px;
+  }
+</style>
+</head>
+<body>
+
+
 ## Sobre mi 🙆🏽‍♂️
 
 Mi nombre es Cristian, soy técnico informático y la tecnología me atrajo mucho más al descubrir el mundo del desarrollo web.
@@ -22,11 +33,7 @@ Si querés ver un poco más de mi como persona te invito a seguirme en [instagra
 
 ## Mis Conocimientos 👨🏽‍🎓
 
-<style>
-  section div img {
-    margin-right: 24px;
-  }
-</style>
+
 
 <section id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
   <div>  
@@ -70,3 +77,5 @@ Si querés ver un poco más de mi como persona te invito a seguirme en [instagra
     <img src="./icons/git-logo.svg" width="40px">
   </div>
 </section>
+
+</body>
