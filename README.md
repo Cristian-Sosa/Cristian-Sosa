@@ -2,16 +2,8 @@
   style="padding-bottom: 16px; display: flex; flex-direction: row; justify-content: space-between;"
 >
 
-<figure
-  style="width: 120px; display: flex; justify-content: flex-start; align-items: center;"
->
-  <img src="./assets/images/me-rounded.svg" width="120px/>
-</figure>
-
 <div style="padding: 16px 8px; width: 500px;">
-  <p style="font-size: 32px; margin-bottom: 8px;">
-    Hola! Soy Cristian
-  </p>
+  <h1>Cristian Sosa G.</h1>
 
   <p style="font-size: 16px;">
     Soy un frontend developer, sin embargo encontraras algunos repos de diseño y backend también
@@ -19,6 +11,8 @@
 </div>
 
 </header>
+
+<br />
 
 ## Sobre mi 🙆🏽‍♂️
 
