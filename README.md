@@ -22,48 +22,51 @@ Si querés ver un poco más de mi como persona te invito a seguirme en [instagra
 
 ## Mis Conocimientos 👨🏽‍🎓
 
+<style>
+  section div img {
+    margin-right: 24px;
+  }
+</style>
+
 <section id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
   <div>  
-  <img src="./icons/figma-logo.svg" width="40px">
-</div>
+    <img src="./icons/figma-logo.svg" width="40px">
+  </div>
 </section>
 
 <section id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-<div>  
-    <div>
-      <img src="./icons/html-logo.svg" width="40px">
-    </div>
+  <div>
+    <img src="./icons/html-logo.svg" width="40px">
+  </div>
 
-  <div style="margin-top: 24px; display: flex; flex-direction: row; gap: 8px;">
+  <div>
     <img src="./icons/css-logo.svg" width="40px" style="margin-right: 8px">
     <img src="./icons/sass-logo.svg" height="48px">
   </div>
+
   <div>
-    <img src="./icons/javascript-logo.svg" width="40px" style="margin-right: 8px">
     <img src="./icons/reactjs-logo.svg" width="48px" >
+    <img src="./icons/javascript-logo.svg" width="40px" style="margin-right: 8px">
   </div>
-</div>
 </section>
 
 <section id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-<div>  
-    <div>
-      <img src="./icons/python-logo.svg" width="40px" style="margin-right: 16px">
-      <img src="./icons/flask-logo.svg" height="48px">
-    </div>
+  <div>
+    <img src="./icons/python-logo.svg" width="40px" style="margin-right: 16px">
+    <img src="./icons/flask-logo.svg" height="48px">
+  </div>
 
   <div>
     <img src="./icons/nodejs-logo.svg" width="40px">
   </div>
+
   <div>
     <img src="./icons/mysql-logo.svg" height="40px">
   </div>
-</div>
 </section>
 
 <section id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
   <div>  
-  <img src="./icons/git-logo.svg" width="40px">
-</div>
+    <img src="./icons/git-logo.svg" width="40px">
+  </div>
 </section>
-
