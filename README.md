@@ -49,9 +49,9 @@
     </figure>
       <br />
     <figure>
-      <img src="./icons/reactjs-logo.svg" width="48px" >
-      <figure><img width="16px" /></figure>
       <img src="./icons/javascript-logo.svg" width="40px" style="margin-right: 8px">
+      <figure><img width="16px" /></figure>
+      <img src="./icons/reactjs-logo.svg" width="48px" >
     </figure>
   </div>
     <br />
