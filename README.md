@@ -3,7 +3,7 @@
 >
 
 <figure
-  style="width: 20%; display: flex; justify-content: flex-start; align-items: center;"
+  style="width: 120px; display: flex; justify-content: flex-start; align-items: center;"
 >
   <img src="./assets/images/me-rounded.svg" width="100%"/>
 </figure>
