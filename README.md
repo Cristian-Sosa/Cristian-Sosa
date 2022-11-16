@@ -5,7 +5,7 @@
 <figure
   style="width: 120px; display: flex; justify-content: flex-start; align-items: center;"
 >
-  <img src="./assets/images/me-rounded.svg" width="100%"/>
+  <img src="./assets/images/me-rounded.svg" width="120px/>
 </figure>
 
 <div style="padding: 16px 8px; width: 75%;">
