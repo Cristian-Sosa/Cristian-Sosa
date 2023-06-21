@@ -57,16 +57,6 @@
     <br />
   <div id="backend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
     <figure>
-      <img src="./icons/python-logo.svg" width="40px" style="margin-right: 16px">
-        <figure><img width="16px" /></figure>
-      <img src="./icons/flask-logo.svg" height="48px">
-    </figure>
-      <br />
-    <figure>
-      <img src="./icons/nodejs-logo.svg" width="40px">
-    </figure>
-      <br />
-    <figure>
       <img src="./icons/mysql-logo.svg" height="40px">
     </figure>
   </div>
