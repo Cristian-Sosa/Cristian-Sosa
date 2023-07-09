@@ -1,69 +1,79 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300px"/>
+</div>
+<br>
+<h1 align="center">Hi there! this is Cristian Sosa's Github profile.</h1>
 
-  <section id="sobre-mi">
-    <h1>Sobre mi :raising_hand_man:</h1>
-    <p>Mi nombre es Cristian, soy técnico informático y la tecnología me atrajo mucho más al descubrir el mundo del desarrollo web.</p>
-    <p>En principio me orienté al frontend, porque tenía conocimientos en diseño gráfico y dibujo técnico, pero al ir avanzando en mi camino descubrí que me encanta todo.</p>
-    <p>
-      :green_book: | Actualmente estoy cursando un intituto de desarrollo web y estudiando para la Licenciatura en Computación del FAMAFyC
-      <br />
-      :books: | Siempre estudié por mi cuenta, leyendo la documentación y demás. Estoy profundizando conocimientos en ReactJs
-    </p>
-    <p>Por el momento me estoy enfocando en Frontend, pero también podrás encontrar cosas de Backend y diseño</p>
-  </section>
 
-  <br />
+### 🤗 &nbsp; A little about of me:
 
-  <section id="mis-metas">
-    <h2>Mis metas :dart:</h2>
-    <p>Soy una persona apasionada por el trabajo en equipo, actualmente me estoy enfocando en ganar conocimiento para poder aportar todo de mi como Full Stack</p>
-    <p>Si querés ver un poco más de mi como persona te invito a seguirme en <a href="https://www.instagram.com/crisg.sosa/" alt="perfil de instagram">Instagram</a></p>
-  </section>
+I'm from Córdoba, Argentina and currently working at Grupo Dinosaurio as a frontend developer.
+I'm continuously learning about Angular, its good practices and how to apply them to new projects.
 
-  <br />
+_I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](https://github.com/Cristian-Sosa?tab=repositories)._
 
-  <h2>Mis Conocimientos :man_student:</h2>
 
-  <div id="design" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-    <figure>  
-      <img src="./icons/figma-logo.svg" width="40px">
-    </figure>
-  </div>
-    <br />
-  <div id="frontend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-    <figure style="margin: 0 24px 0 0">
-      <img src="./icons/html-logo.svg" width="40px">
-    </figure>
-      <br />
-    <figure>
-      <img src="./icons/css-logo.svg" width="40px" style="margin-right: 8px">
-        <figure><img width="16px" /></figure>
-      <img src="./icons/sass-logo.svg" height="48px">
-    </figure>
-      <br />
-    <figure>
-      <img src="./icons/javascript-logo.svg" width="40px" style="margin-right: 8px">
-      <figure><img width="16px" /></figure>
-      <img src="./icons/reactjs-logo.svg" width="48px" >
-    </figure>
-  </div>
-    <br />
-  <div id="backend" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-    <figure>
-      <img src="./icons/mysql-logo.svg" height="40px">
-    </figure>
-  </div>
-    <br />
-  <div id="otros" style="margin: 24px 0 0 24px; display: flex; flex-direction: column; gap: 8px;">
-    <figure>  
-      <img src="./icons/git-logo.svg" width="40px">
-    </figure>
-  </div>
-</body>
+### 📚 &nbsp; Languages, frameworks and libraries, preprocessors and tools:
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+</a>
+
+<br>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> 
+</a>
+
+<br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+</a> 
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+</a>
+
+<br>
+
+<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
+</a> 
+
+<br>
+
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+</a> 
+
+<br>
+
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="GIT" width="40" height="40"/> 
+</a> 
+
+<br>
+
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+</a> 
+</p>
+
+<br>
+
+## 🔥 &nbsp; My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cristian-Sosa&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
+
+[![Marcos Castillo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Sosa&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Sosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
