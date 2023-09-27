@@ -73,7 +73,7 @@ _I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cristian-Sosa&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
-[![Marcos Castillo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Sosa&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sosa Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Sosa&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Sosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
