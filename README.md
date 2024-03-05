@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300px"/>
+
+  <svg href="https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400"></svg>
+
 </div>
 <br>
 <h1 align="center">Hi there! this is Cristian Sosa's Github profile.</h1>
