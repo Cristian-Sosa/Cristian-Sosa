@@ -5,13 +5,15 @@
 </div>
 <br>
 
-### 🐣 &nbsp; A little about of me:
+### 🐣 &nbsp; A little about of me: 
 
 Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio as a developer for a year now. While my main focus has been on frontend development using Angular 16, lately, I've been delving into .NET with C# and I'm eager to expand my skills in that area.
 
+###### *they call me pimpo*
+
 <br />
 
-##### *My contributions to Grupo Dinosaurio*
+##### 💼 &nbsp; *My contributions to Grupo Dinosaurio*
 
 <div style="display:flex; gap:16px;">
 
