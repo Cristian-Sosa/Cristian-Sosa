@@ -29,7 +29,7 @@ Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio
 
 ##### 💼 &nbsp; *My contributions to Grupo Dinosaurio*
 
-<div style="display:flex; gap:16px;">
+<div style="display:flex; justify-content: flex-start; gap: 16px;">
 
 <a href="https://github.com/Cristian-Sosa/envases">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=envases&theme=dark&show_icons=false" />
@@ -45,8 +45,12 @@ Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio
 
 ##### 📈 &nbsp; *Some of my stats*
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sosa&show_icons=true&theme=dark)
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cristian-Sosa&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=cristian-sosa&show_icons=true&theme=dark" />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cristian-Sosa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=465&fire=C4C4C4&ring=C4C4C475&currStreakLabel=62E285&dates=EBEBEB84&sideLabels=62E285AF&sideNums=EBEBEBA2&excludeDaysLabel=EB5454C6" alt="GitHub Streak" /></a>
+
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sosa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
