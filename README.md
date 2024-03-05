@@ -1,18 +1,25 @@
 <div id="header" align="center">
 
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=-🤠Frontend💀-&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🤠Frontend💀&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 </div>
 <br>
-<h1 align="center">Hi there! this is Cristian Sosa's Github profile.</h1>
-
 
 ### 🤗 &nbsp; A little about of me:
 
-I'm from Córdoba, Argentina and currently working at Grupo Dinosaurio as a frontend developer.
-I'm continuously learning about Angular, its good practices and how to apply them to new projects.
+Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio as a developer for a year now. While my main focus has been on frontend development using Angular 16, lately, I've been delving into .NET with C# and I'm eager to expand my skills in that area.
 
-_I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](https://github.com/Cristian-Sosa?tab=repositories)._
+<br />
+
+##### *Some of my work*
+
+<div style="display:flex; gap:16px;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=envases)](https://github.com/Cristian-Sosa/envases)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=FilaDigital)](https://github.com/Cristian-Sosa/FilaDigital)
+
+</div>
 
 
 ### 📚 &nbsp; Languages, frameworks and libraries, preprocessors and tools:
