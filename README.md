@@ -16,11 +16,11 @@ Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio
 <div style="display:flex; gap:16px;">
 
 <a href="https://github.com/Cristian-Sosa/envases">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=envases" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=envases&theme=dark&show_icons=false" />
 </a>
 
 <a href="https://github.com/Cristian-Sosa/FilaDigital">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=FilaDigital" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=FilaDigital&theme=dark&show_icons=false" />
 </a>
 
 </div>
