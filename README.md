@@ -26,6 +26,13 @@ Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 <br>
+<br>
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/Cristian-Sosa/count.svg" alt="Cristian-Sosa :: Visitor's Count" />
+</div>
+
+<br>
 
 ##### 💼 &nbsp; *My contributions to Grupo Dinosaurio*
 
