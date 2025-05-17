@@ -1,60 +1,83 @@
-<div id="header" align="center">
+# Yo! I'm Cristian Sosa
 
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🤠Frontend💀&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istian-sosa-gustavo/)
+[![IG](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisgsosa/)
 
-</div>
-<br>
+I'm a **Full Stack Developer** based in Córdoba, Argentina.  
+I've been building full-stack solutions and working with tech teams for over three years now. I'm passionate about coding and love learning a bit of everything.
 
-### 🐣 &nbsp; A little about of me: 
+## 🐣 About Me
 
-Hi, I'm Cristian, and I live in Argentina. I've been working at Grupo Dinosaurio as a developer for a year now. While my main focus has been on frontend development using Angular 16, lately, I've been delving into .NET with C# and I'm eager to expand my skills in that area.
+I'm a curious problem solver who enjoys crafting solid, thoughtful solutions that make life easier for users.  
+Outside of tech, I’m into psychology, philosophy, and reading weird or deep stuff.
 
-###### *they call me pimpo*
+---
 
-<br />
+## 🪓 Technical Skills
 
-##### 📚 &nbsp; *My stack and the apps I use every day*
+### **Main Languages**
+![Dotnet](https://img.shields.io/badge/-.NET-blueviolet)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-<p align="left">
+### **App Development**
+- **Web:** ASP.NET Core
+- **Cross-Platform:** .NET Core
 
-[![My Skills](https://skillicons.dev/icons?i=angular,jest,javascript,ts,html,css,sass,bootstrap)](https://skillicons.dev)
+### **Infrastructure & Cloud**
+- **DevOps:** Docker
+- **Networking:** TCP/IP, HTTP/HTTPS, WebSockets
+- **Source Control:** Git (GitHub, GitLab)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,postman)](https://skillicons.dev)
+### **Database & Storage**
+- **Relational:** MSSQL, MySQL
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,md)](https://skillicons.dev)
+### **Web Technologies**
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+### **Other Stuff I Know**
+- **System Design:** Service-based architecture
+- **Architecture & Best Practices:** Design Patterns, SOLID Principles, RESTful APIs
+- **Security:** OAuth 2.0, JWT
+- **Testing:** NUnit, Jest, Jasmine
 
-<br>
-<br>
+---
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/Cristian-Sosa/count.svg" alt="Cristian-Sosa :: Visitor's Count" />
-</div>
+## 💼 Experience
 
-<br>
+### **Software Developer**  
+**Grupo Dinosaurio — Córdoba, Argentina**  
+*2023 – Present*  
+- Built and maintained robust .NET-based solutions.
+- Took part in the full software lifecycle, from requirements to deployment.
+- Applied design patterns and scalable architectures across projects.
+- Led migrations and maintained enterprise-grade MSSQL databases.
 
-##### 💼 &nbsp; *My contributions to Grupo Dinosaurio*
+### **Software Developer**  
+**Rincón Cultural — Córdoba, Argentina**  
+*2023 – 2024*  
+- Designed and implemented customer loyalty systems.
+- Worked on scalable architecture using design patterns.
+- Managed data migrations and maintained MySQL databases.
 
-<div style="display:flex; justify-content: flex-start; gap: 16px;">
+---
 
-<a href="https://github.com/Cristian-Sosa/envases">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=envases&theme=dark&show_icons=false" />
-</a>
+## 🎓 Education
 
-<a href="https://github.com/Cristian-Sosa/FilaDigital">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cristian-sosa&repo=FilaDigital&theme=dark&show_icons=false" />
-</a>
+- **Computer Technician**  
+  *Nicolás Copérnico Institute (I.P.E.T. No. 249)*
+- **Bachelor's Degree in Systems Analysis (in progress, paused)**  
+  *Santo Domingo Higher Institute*
 
-</div>
+---
 
-<br />
+## 📫 Let's Connect
 
-##### 📈 &nbsp; *Some of my stats*
-
-<img src="https://github-readme-stats.vercel.app/api?username=cristian-sosa&show_icons=true&theme=dark" />
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sosa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- [LinkedIn](https://www.linkedin.com/in/istian-sosa-gustavo/)
+- [Email Me](mailto:crisgsosasrv@gmail.com)
