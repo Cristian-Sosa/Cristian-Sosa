@@ -1,6 +1,6 @@
 # Yo! I'm Cristian Sosa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istian-sosa-gustavo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-sosa-gustavo/)
 [![IG](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisgsosa/)
 
 I'm a **Full Stack Developer** based in Córdoba, Argentina.  
@@ -74,10 +74,12 @@ Outside of tech, I’m into psychology, philosophy, and reading weird or deep st
   *Nicolás Copérnico Institute (I.P.E.T. No. 249)*
 - **Bachelor's Degree in Systems Analysis (in progress, paused)**  
   *Santo Domingo Higher Institute*
+- **Bachelor's Degree in Systems Analysis (unfinished)**  
+  *Polytechnic Higher Institute of Córdoba*
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/istian-sosa-gustavo/)
+- [LinkedIn](https://www.linkedin.com/in/cristian-sosa-gustavo/)
 - [Email Me](mailto:crisgsosasrv@gmail.com)
